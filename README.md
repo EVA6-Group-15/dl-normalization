@@ -142,12 +142,12 @@ The excel sheet with calculations is [here](./notebooks/Normalizations.xlsx)
 
 * The number of parameters of the 3 architectures are the same since they all have two trainable parameters for normalization.
 
-
 ## Contributors
+
 [Equal contribution from everyone :)]
 
-Syed Abdul Khader
-Kushal Gandhi
-Varsha Raveendran
-Kaustubh Harapanahalli
+- Syed Abdul Khader
+- Kushal Gandhi
+- Varsha Raveendran
+- Kaustubh Harapanahalli
 
